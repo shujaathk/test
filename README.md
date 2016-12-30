@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/MM__SL__DA-V2.5-ff69b4.svg)](http://www.miningminds.re.kr/english/)
 ![License](https://img.shields.io/badge/Apache%20License%20-Version%202.0-yellowgreen.svg)
 [![APIDoc-Version](https://img.shields.io/badge/apiDoc-2.5-green.svg)](https://ubiquitous-computing-lab.github.io/Mining-Minds/doc/sl-doc/Analytics/documentation.html)
-[![APIDoc-Version](https://img.shields.io/badge/apiDoc-2.5-green.svg)](/documentation.html)
+[![APIDoc-Version](https://img.shields.io/badge/apiDoc-2.5-green.svg)](http://163.180.173.139/MMv2.5/Documentation.html)
 <!-- Update the list and the main body. -->
 
 This document describes how to get started using the analytics toolkit for Mining Minds. Descriptive Analytics tool  is open source tool that gives you valuable insights into the Mining Minds data trhough graphs, statistics, facts and analytics.
